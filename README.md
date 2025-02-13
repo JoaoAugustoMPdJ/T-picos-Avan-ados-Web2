@@ -1,4 +1,3 @@
-Aqui está a documentação atualizada para refletir as mudanças e personalizações que fizemos no projeto:
 
 ### **Resumo do Projeto**
 
