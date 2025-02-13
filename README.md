@@ -97,5 +97,3 @@ Este projeto é uma API RESTful desenvolvida com **Flask** e integrada com **Swa
 - **Operações CRUD Completas**: Adicionadas operações para atualizar e deletar usuários.
 - **Validação de E-mail**: Verifica se o e-mail já está cadastrado antes de adicionar um novo usuário.
 - **Mensagens de Erro Personalizadas**: Mensagens claras para erros comuns, como usuário não encontrado ou e-mail já cadastrado.
-
-Essa documentação reflete as mudanças e personalizações feitas no projeto, destacando as novas funcionalidades e melhorias. 😊
